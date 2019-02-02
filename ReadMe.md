@@ -1,3 +1,5 @@
+Implement (in C++) the K-means clustering algorithm [MacQueen, 1967]
+
 
 
 text.txt contains to example point, output.txt contains the results of each iteration. 
